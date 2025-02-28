@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1 align="center">Hi 👋, I'm Md. Mynul Islam</h1>
-  <h3 align="center">A passionate Network Engineer from Bangladesh</h3>
+  <h3 align="center">Cyber Security Student at UTS</h3>
  </div>
 
 
@@ -15,13 +15,11 @@
 
 - 🌱 I’m currently learning **CCNA,MTCNA,AWS**
 
-- 🤝 I’m looking for help with **#FarzanaSultana**
-
 - 👨‍💻 All of my projects are available at [Mynul345](Mynul345)
 
-- 💬 Ask me about **Networking**
+- 💬 Ask me about **Networking, CLoud**
 
-- 📫 How to reach me **mdmynulislam345@gmail.com**
+- 📫 How to reach me **mynul.au@gmail.com**
 
 - ⚡ Fun fact **I think I'm Funny**
 
